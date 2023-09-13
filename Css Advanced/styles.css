@@ -1,0 +1,11 @@
+.authors , .summary {
+    text-align: center;
+}
+.summary {
+    font-weight: bold;
+    
+}
+
+article {
+    background-color: wheat;
+}
